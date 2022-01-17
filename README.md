@@ -1,4 +1,4 @@
-# MernApp
+# Memories
 Everyone likes memories especially good ones. This is a full stack MERN application where you can post pictures, like, delete, and update memories.
 it uses JSON Web Tokens (JWT) to authenticate account-level access. These tokens offer a method to establish secure client-to-server authentication by transferring a compact JSON object with a signed payload of your account’s API Key and Secret.
 
